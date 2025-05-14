@@ -2,17 +2,17 @@
 This repo is a collection of course projects related to the Responsive Web Design Certification from freeCodeCamp.
 
 It contains the following projects:
-* Cat Photo App
-* Cafe Menu
-* Colored Markers
-* Registration Form
-* Rothko Painting
-* Photo Gallery
-* Nutrition Label
-* Quiz
-* Balance Sheet
-* Cat Painting
-* Piano
+* [Cat Photo App](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/cat-photo-app)
+* [Cafe Menu](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/cafe-menu)
+* [Colored Markers](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/colored-markers)
+* [Registration Form](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/registration-form)
+* [Rothko Painting](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/rothko-painting)
+* [Photo Gallery](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/photo-gallery)
+* [Nutrition Label](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/nutrition-label)
+* [Quiz](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/quiz)
+* [Balance Sheet](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/balance-sheet)
+* [Cat Painting](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/cat-painting)
+* [Piano](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/piano)
 
 _______________________________________
 
