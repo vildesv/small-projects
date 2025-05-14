@@ -13,10 +13,6 @@ It contains the following projects:
 * Balance Sheet
 * Cat Painting
 * Piano
-* City Skyline
-* Magazine
-* Ferris Wheel
-* Penguin
 
 _______________________________________
 
