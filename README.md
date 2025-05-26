@@ -13,6 +13,7 @@ It contains the following projects:
 * [Balance Sheet](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/balance-sheet)
 * [Cat Painting](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/cat-painting)
 * [Piano](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/piano)
+* [City Skyline](https://github.com/vildesv/small-projects/tree/718ad82c121a366333e4edae5aabd51b4e7fd817/city-skyline)
 
 _______________________________________
 
