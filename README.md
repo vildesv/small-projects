@@ -15,6 +15,7 @@ It contains the following projects:
 * [Piano](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/piano)
 * [City Skyline](https://github.com/vildesv/small-projects/tree/718ad82c121a366333e4edae5aabd51b4e7fd817/city-skyline)
 * [Magazine](https://github.com/vildesv/small-projects/tree/a98f4f82bf0779015dd32a9711b0a4f4a634d59d/magazine)
+* [Ferris Wheel](https://github.com/vildesv/small-projects/tree/b851e0430a6690aceabe0bc60aa15ad328cd87f0/ferris-wheel)
 
 _______________________________________
 
