@@ -14,6 +14,7 @@ It contains the following projects:
 * [Cat Painting](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/cat-painting)
 * [Piano](https://github.com/vildesv/small-projects/tree/7377e45fde6525c633b0475415ebea08259d11a8/piano)
 * [City Skyline](https://github.com/vildesv/small-projects/tree/718ad82c121a366333e4edae5aabd51b4e7fd817/city-skyline)
+* [Magazine](https://github.com/vildesv/small-projects/tree/a98f4f82bf0779015dd32a9711b0a4f4a634d59d/magazine)
 
 _______________________________________
 
